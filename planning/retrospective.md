@@ -1,4 +1,5 @@
 
+
 **Stop doing :** individual work (linked to collaboration), leave for later (linked to time management)
 
 **Continue doing:** practice, watching tutorials, keep communication alive
